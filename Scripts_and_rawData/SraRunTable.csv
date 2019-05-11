@@ -1,0 +1,13 @@
+Run,condition,Time,tissue,stage,Sample_Name,age,BioSampleModel,Instrument,LibraryLayout,LibrarySelection,LibrarySource,Organism,cultivar
+SRR1525051,Control,0,Roots,early,Unstressed plant roots,4 months,Plant,Illumina HiSeq 1000,PAIRED,PolyA,TRANSCRIPTOMIC,Olea europaea,Picual
+SRR1525052,Control,0,Roots,early,Unstressed plant roots,4 months,Plant,Illumina HiSeq 1000,PAIRED,PolyA,TRANSCRIPTOMIC,Olea europaea,Picual
+SRR1525086,Infect,2,Roots,early,Roots infected by Verticillium dahliae 48h,9 months,Plant,Illumina HiSeq 1000,PAIRED,PolyA,TRANSCRIPTOMIC,Olea europaea,Picual
+SRR1525087,Infect,2,Roots,early,Roots infected by Verticillium dahliae 48h,9 months,Plant,Illumina HiSeq 1000,PAIRED,PolyA,TRANSCRIPTOMIC,Olea europaea,Picual
+SRR1525113,Infect,7,Roots,late,Roots infected by Verticillium dahliae 7 days,10 months,Plant,Illumina HiSeq 1000,PAIRED,PolyA,TRANSCRIPTOMIC,Olea europaea,Picual
+SRR1525114,Infect,7,Roots,late,Roots infected by Verticillium dahliae 7 days,10 months,Plant,Illumina HiSeq 1000,PAIRED,PolyA,TRANSCRIPTOMIC,Olea europaea,Picual
+SRR1525213,Infect,15,Roots,late,Roots infected by Verticillium dahliae 15 days,11 months,Plant,Illumina HiSeq 1000,PAIRED,PolyA,TRANSCRIPTOMIC,Olea europaea,Picual
+SRR1525214,Infect,15,Roots,late,Roots infected by Verticillium dahliae 15 days,11 months,Plant,Illumina HiSeq 1000,PAIRED,PolyA,TRANSCRIPTOMIC,Olea europaea,Picual
+SRR1525224,Control,0,Leaves,early,Unstressed plant leaves,12 months,Plant,Illumina HiSeq 1000,PAIRED,PolyA,TRANSCRIPTOMIC,Olea europaea,Picual
+SRR1525226,Control,0,Leaves,early,Unstressed plant leaves,12 months,Plant,Illumina HiSeq 1000,PAIRED,PolyA,TRANSCRIPTOMIC,Olea europaea,Picual
+SRR1525436,Infect,15,Leaves,late,Leaves of plants infected by V. dahliae 15 days,16 months,Plant,Illumina HiSeq 1000,PAIRED,PolyA,TRANSCRIPTOMIC,Olea europaea,Picual
+SRR1525437,Infect,15,Leaves,late,Leaves of plants infected by V. dahliae 15 days,16 months,Plant,Illumina HiSeq 1000,PAIRED,PolyA,TRANSCRIPTOMIC,Olea europaea,Picual

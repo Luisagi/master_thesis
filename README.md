@@ -1,3 +1,3 @@
 # Repository of supplementary data
-Master's thesis in Bioinformatic at University of Valencia
+Master's thesis in Bioinformatics at University of Valencia.
 
